@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/horoscope-NFT/static/css/main.f855e6bc.css",
+    "main.js": "/horoscope-NFT/static/js/main.5c2186e0.js",
+    "static/js/787.d7827e98.chunk.js": "/horoscope-NFT/static/js/787.d7827e98.chunk.js",
+    "index.html": "/horoscope-NFT/index.html",
+    "main.f855e6bc.css.map": "/horoscope-NFT/static/css/main.f855e6bc.css.map",
+    "main.5c2186e0.js.map": "/horoscope-NFT/static/js/main.5c2186e0.js.map",
+    "787.d7827e98.chunk.js.map": "/horoscope-NFT/static/js/787.d7827e98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5c2186e0.js"
+  ]
+}
